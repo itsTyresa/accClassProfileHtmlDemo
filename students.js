@@ -9,7 +9,7 @@ export const data = [
     {
         firstName:'Tyresa',
         lastName:'Theus',
-        location: 'California, CA',
+        location: 'San Jacinto, CA',
         html:'tyresaTheus.html',
         imagePath:'images/tyresaTheus.jpg'
     },
